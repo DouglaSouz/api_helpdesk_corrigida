@@ -1,0 +1,19 @@
+{
+  "name": "api-helpdesk-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Laboratorio educacional de auditoria de seguranca em API Help Desk",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}

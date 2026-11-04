@@ -1,0 +1,4 @@
+.env
+node_modules/
+*.log
+professor/GABARITO-NAO-ENTREGAR-AOS-ALUNOS.md
